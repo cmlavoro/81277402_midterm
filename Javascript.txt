@@ -1,0 +1,18 @@
+JavaScript (4 points)
+• What are some advantages of using JavaScript in web development?
+
+Using JavaScript, websites can contain interactivity and dynamic behavior. For example, when a user clicks a button, a developer can add a listener to the button that contains an event(s) that can be performed after the click/push. The click could display an alert or prompt the user for information. 
+
+JavaScript can be leveraged to perform simple arithmetic to complex mathematical operations. Variables can be leveraged using the keywords var, let, and const to hold data in memory while the code is executing.
+
+JavaScript also has the advantage of using loops and recursion to execute the same lines of code multiple times until specific condition(s) are met very quickly.
+
+JavaScript has the ability to write functions that store common pieces of code that can be accessed and executed on multiple webpages, decreasing/eliminating the need for developers to duplicate the same lines of code in different places. Functions provide a great way for developers to refactor code for readability and performance.
+
+JavaScript can also be used to manipulate the DOM and css/style of elements on the webpage by event driven code.
+
+Developers can also create HTML elements on the fly using JavaScript. For example, depending on how a user responds to a question, JavaScript could create additional buttons, labels, etc. that would display conditionally.
+
+JavaScript is the core language for 3rd party libraries such as jQuery, Bootstrap, and others to make websites responsive on any viewport/device such as mobile phones, tables, and desktops.
+
+JavaScript can also be used for backend-server side development such as Node.js which applies the same language, making it easier for full-stack developers to create both front-end and back-end environments using the same language.
