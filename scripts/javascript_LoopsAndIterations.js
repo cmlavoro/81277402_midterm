@@ -91,6 +91,3 @@ console.log(`${factorialIterativeTest}! = ${calculateFactorialIterative(factoria
 
 factorialIterativeTest = 0;
 console.log(`${factorialIterativeTest}! = ${calculateFactorialIterative(factorialIterativeTest)}`);
-
-factorialIterativeTest = -1;
-console.log(`${factorialIterativeTest}! = ${calculateFactorialIterative(factorialIterativeTest)}`);
